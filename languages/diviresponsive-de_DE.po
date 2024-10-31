@@ -1,0 +1,151 @@
+# Copyright (C) 2021 Divi Candy
+# This file is distributed under the same license as the Responsive Divi Candy plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Divi Candy 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/diviresponsive\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-03-08 18:54+0100\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: diviresponsive\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+
+# automatic translation
+msgid "1"
+msgstr "1"
+
+# automatic translation
+msgid "2"
+msgstr "2"
+
+# automatic translation
+msgid "3"
+msgstr "3"
+
+# automatic translation
+msgid "4"
+msgstr "4"
+
+# automatic translation
+#. Plugin Name of the plugin
+msgid "Responsive Divi Candy"
+msgstr "Responsive Divi Candy"
+
+# automatic translation
+#. Plugin URI of the plugin
+msgid "https://divicandy.com/responsive/"
+msgstr "https://divicandy.com/responsive/"
+
+# automatic translation
+#. Description of the plugin
+msgid ""
+"A super lightweight divi plugin that extends Divi with exclusives custom "
+"responsive options for mobile and tablet."
+msgstr ""
+"Ein superleichtes Divi-Plugin, das Divi um exklusive benutzerdefinierte "
+"Reaktionsoptionen für Mobilgeräte und Tablets erweitert."
+
+# automatic translation
+#. Author of the plugin
+msgid "Divi Candy"
+msgstr "Divi Candy"
+
+# automatic translation
+#. Author URI of the plugin
+msgid "Responsive"
+msgstr "Reaktionsschnell"
+
+# automatic translation
+msgid "Number of Columns on Tablet"
+msgstr "Anzahl der Spalten auf dem Tablet"
+
+# automatic translation
+msgid "Default"
+msgstr "Standard"
+
+# automatic translation
+msgid "1st"
+msgstr "1st"
+
+# automatic translation
+msgid "2nd"
+msgstr "2nd"
+
+# automatic translation
+msgid "3rd"
+msgstr "3rd"
+
+# automatic translation
+msgid "4th"
+msgstr "4th"
+
+# automatic translation
+msgid "5th"
+msgstr "5th"
+
+# automatic translation
+msgid "6th"
+msgstr "6th"
+
+# automatic translation
+msgid "Choose the number of columns you wish to have on Tablet devices"
+msgstr ""
+"Wählen Sie die Anzahl der Spalten aus, die auf Tablet-Geräten angezeigt "
+"werden sollen"
+
+# automatic translation
+msgid "Number of Columns on Mobile"
+msgstr "Anzahl der Spalten auf dem Handy"
+
+# automatic translation
+msgid "Choose the number of columns you wish to have on Mobile devices"
+msgstr ""
+"Wählen Sie die Anzahl der Spalten aus, die auf Mobilgeräten angezeigt "
+"werden sollen"
+
+# automatic translation
+msgid "Activate Stacking Order on Tablet?"
+msgstr "Stapelreihenfolge auf Tablet aktivieren?"
+
+# automatic translation
+msgid "No"
+msgstr "Nein"
+
+# automatic translation
+msgid "Yes"
+msgstr "Ja"
+
+# automatic translation
+msgid "Activate the Stacking Order just on Tablet devices"
+msgstr "Aktivieren Sie die Stapelreihenfolge nur auf Tablet-Geräten"
+
+# automatic translation
+msgid "Activate Stacking Order on Mobile?"
+msgstr "Stapelreihenfolge auf dem Handy aktivieren?"
+
+# automatic translation
+msgid "Activate the Stacking Order just on Mobile devices"
+msgstr "Aktivieren Sie die Stapelreihenfolge nur auf Mobilgeräten"
+
+msgid "Stacking Order on Tablet"
+msgstr "Stapelreihenfolge auf Tablet"
+
+msgid "Stacking Order on Mobile"
+msgstr "Stapelreihenfolge auf dem Handy"
+
+# automatic translation
+msgid "Select order"
+msgstr "Wählen Sie Bestellung"
+
+# automatic translation
+msgid "Choose the stacking order for this column on Tablet devices"
+msgstr "Wählen Sie die Stapelreihenfolge für diese Spalte auf Tablet-Geräten"
+
+# automatic translation
+msgid "Choose the stacking order for this column on Mobile devices"
+msgstr "Wählen Sie die Stapelreihenfolge für diese Spalte auf Mobilgeräten"
